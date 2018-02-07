@@ -60,7 +60,7 @@ namespace ObjectInitializers
         }
         public void DisplayStats()
         {
-            Console.WriteLine("[TopLeft: {0}, {1}, {2} BottomRight: {3}, {4}, {5}]", topLeft.X, topLeft.Y, topLeft.Color, bottomRight.X, bottomRight.Y, bottomRight.Color);
+            Console.WriteLine("[TopLeft: {0}, {1}, {2} BottomRight: {3}, {4}, {5}]", topLeft.X, topLeft.Y, bottomRight.X, bottomRight.Y);
         }
     }
 }

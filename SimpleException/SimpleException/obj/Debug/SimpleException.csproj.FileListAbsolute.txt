@@ -1,0 +1,6 @@
+C:\GIT\Practice_Lab5\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+C:\GIT\Practice_Lab5\SimpleException\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
+C:\GIT\Practice_Lab5\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+C:\GIT\Practice_Lab5\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+C:\GIT\Practice_Lab5\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+C:\GIT\Practice_Lab5\SimpleException\SimpleException\obj\Debug\SimpleException.pdb
